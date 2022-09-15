@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on Mathematics and Computer Science
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning Mathematics and Computer Science
 - 📫 How to reach me: by [mail](mailto:mvr7@outlook.es)
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
