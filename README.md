@@ -4,8 +4,7 @@
 **mariovilar/mariovilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Mathematics and Computer Science
-- 🌱 I’m currently learning Mathematics and Computer Science
+- 🔭 I’m currently studying Mathematics and Computer Science
 - 📫 How to reach me: by [mail](mailto:mvr7@outlook.es)
 - 😄 Pronouns: he/him
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: __none__
