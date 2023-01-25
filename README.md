@@ -10,7 +10,8 @@
 <div align="center">
   <a href="https://github.com/mariovilar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariovilar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariovilar&layout=compact&langs_count=7&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariovilar&layout=compact&include_all_commits=true&langs_count=7&theme=radical&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mariovilar&layout=compact&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
